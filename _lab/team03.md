@@ -10,6 +10,7 @@ proj-ucsb-courses-search: https://github.com/ucsb-cs156-s21/proj-ucsb-courses-se
 proj-ucsb-cs-las: https://github.com/ucsb-cs156-s21/proj-ucsb-cs-las
 proj-mapache-search: https://github.com/ucsb-cs156-s21/proj-mapache-search
 gauchospace-link: https://gauchospace.ucsb.edu/courses/mod/assign/view.php?id=7087487&forceview=1
+sep: " &#11045; "
 ---
 
 
@@ -38,6 +39,17 @@ Here's what's different:
   organization
   admins.)
 
+# What we'll have when we are done
+
+When teams are done, the following Heroku applications should be
+up and running:
+
+| Section | Team 1 | Team 2 | Team 3 | Team 4 |
+|---------|--------|--------|--------|--------|
+| 5pm | [App](https://cs156-s21-team-5pm-1-courses.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-5pm-1-courses) | [App](https://cs156-s21-team-5pm-2-courses.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-5pm-2-courses) | [App](https://cs156-s21-team-5pm-3-courses.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-5pm-3-courses) | [App](https://cs156-s21-team-5pm-4-courses.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-5pm-4-courses) | 
+| 6pm | [App](https://cs156-s21-team-6pm-1-las.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-6pm-1-las) | [App](https://cs156-s21-team-6pm-2-las.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-6pm-2-las) | [App](https://cs156-s21-team-6pm-3-las.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-6pm-3-las) | [App](https://cs156-s21-team-6pm-4-las.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-6pm-4-las) | 
+| 7pm | [App](https://cs156-s21-team-7pm-1-mapache.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-7pm-1-mapache) | [App](https://cs156-s21-team-7pm-2-mapache.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-7pm-2-mapache) | [App](https://cs156-s21-team-7pm-3-mapache.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-7pm-3-mapache) | [App](https://cs156-s21-team-7pm-4-mapache.herokuapp.com){{page.sep}}[Dashboard](https://dashboard.heroku.com/apps/cs156-s21-team-7pm-4-mapache) | 
+{:.table .table-sm .table-striped .table-bordered}
 
 # Why are we doing all of this
 
